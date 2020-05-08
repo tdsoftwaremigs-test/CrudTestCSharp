@@ -1,0 +1,11 @@
+Z:\test\CrudTestCSharp\CrudTestCSharp\bin\Debug\CrudTestCSharp.exe.config
+Z:\test\CrudTestCSharp\CrudTestCSharp\bin\Debug\CrudTestCSharp.exe
+Z:\test\CrudTestCSharp\CrudTestCSharp\bin\Debug\CrudTestCSharp.pdb
+Z:\test\CrudTestCSharp\CrudTestCSharp\obj\Debug\CrudTestCSharp.csprojAssemblyReference.cache
+Z:\test\CrudTestCSharp\CrudTestCSharp\obj\Debug\CrudTestCSharp.ProfileView.resources
+Z:\test\CrudTestCSharp\CrudTestCSharp\obj\Debug\CrudTestCSharp.View.resources
+Z:\test\CrudTestCSharp\CrudTestCSharp\obj\Debug\CrudTestCSharp.Properties.Resources.resources
+Z:\test\CrudTestCSharp\CrudTestCSharp\obj\Debug\CrudTestCSharp.csproj.GenerateResource.cache
+Z:\test\CrudTestCSharp\CrudTestCSharp\obj\Debug\CrudTestCSharp.csproj.CoreCompileInputs.cache
+Z:\test\CrudTestCSharp\CrudTestCSharp\obj\Debug\CrudTestCSharp.exe
+Z:\test\CrudTestCSharp\CrudTestCSharp\obj\Debug\CrudTestCSharp.pdb
